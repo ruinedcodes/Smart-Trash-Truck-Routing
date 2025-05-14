@@ -1,0 +1,4 @@
+truck_id,capacity,current_load,start_location
+T1,400.0,0.0,B1
+T2,400.0,0.0,B6
+T3,400.0,0.0,B11 
