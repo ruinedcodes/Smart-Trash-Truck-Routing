@@ -85,7 +85,6 @@ SmartTrashTruckRoutingSys/
 │   └── optimization_test/    # 24 bins, 3 trucks
 ├── sttrs_package/            # Core package
 │   ├── core/                 # Core functionality
-├── setup.py                  # Setup for Main application
 ├── requirements.txt          # Project dependencies
 └── smart_trash_routing.py    # Main application
 ```
